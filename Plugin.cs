@@ -8,7 +8,7 @@ using System.Text;
 
 namespace Spoof_HWID
 {
-    [BManager.Attributes.ModuleInfo("Test Project", "1.0", "BlazeBest")]
+    [BManager.Attributes.ModuleInfo("HWID Spoofer", "1.0", "BlazeBest")]
     unsafe public class Plugin : BManager.VRModule
     {
         public static readonly string src_file = "HardWareID.txt";
