@@ -5,4 +5,4 @@ VRHustler Plugin for VRChat
 
 | IF Community | Developer |
 |----------------|:-----------:|
-| http://discord.gg/EaReVF3B8U | BlazeBest#1284 |
+| https://www.icefrag.ru/ | BlazeBest#1284 |
